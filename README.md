@@ -56,3 +56,8 @@ A Boskalis Subsidiary.
 
 **Development of a Recirculating Photocatalytic Reactor for Wastewater Remediation:** Final year honours project targeted at creating a more cost efficient and sustainable means for waste water treatment in rural areas. 
 
+## Interests
+  - Video Games & Game Development 
+  - Mobile Technology 
+  - Renewable/Sustainable Energy & Clean Technology
+  - Art and Graphic Design 
