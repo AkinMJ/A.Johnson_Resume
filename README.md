@@ -8,7 +8,7 @@ _Mechanical Engineer (and aspiring developer) based in Lagos, Nigeria_<br>
 
 **Software:** Microsoft Office (Excel, Powerpoint, Project & Visio), VS Code, Solidworks
  
-**Languages:** HTML, CSS, Javascript, Python, Bootstrap
+**Languages:** HTML, CSS, Javascript, Python
 
 **Databases:** MongoDB
 
