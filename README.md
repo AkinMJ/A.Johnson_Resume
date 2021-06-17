@@ -4,7 +4,7 @@ _Mechanical Engineer (and aspiring developer) based in Lagos, Nigeria_<br>
 
 [Email](mailto:akinj@outlook.com) / [LinkedIn](https://www.linkedin.com/in/akinjohnson/) / [GitHub](https://github.com/AkinMJ) / [Twitter](https://twitter.com/manlikekin/)
 
-## Skills
+## 📌 Skills
 
 **Software:** Microsoft Office (Excel, Powerpoint, Project & Visio), VS Code, Solidworks
  
@@ -17,7 +17,7 @@ _Mechanical Engineer (and aspiring developer) based in Lagos, Nigeria_<br>
 **Other Skills:** Critical Thinking, Project Planning, Quantitative Research, Statistics and Reporting 
 <br><br>
 
-## Work Experience
+## 👨🏽‍💻 Work Experience
 
 **Personal Assistant** to CEO @ [Geregu Power PLC](https://www.geregupowerplc.com) _(Mar 2020 - Present)_ <br>
 Power Generation Company in Nigeria.
@@ -40,7 +40,7 @@ A Boskalis Subsidiary.
   - Worked with site engineers to machine replacement bearings to recondition sheaves used on cutter suction dredger
 <br><br>
 
-## Education
+## 👨🏽‍🎓 Education
 
 **Complete Python Bootcamp From Zero to Hero** focused on python 3.0 <br>
 [Udemy (Pierian Data)](https://www.udemy.com/share/101W8QAEIdclhWQnUJ/) - Online (Oct 2020)
@@ -52,11 +52,11 @@ A Boskalis Subsidiary.
 [Robert Gordon University](https://www.rgu.ac.uk/) - Aberdeen, UK (2012 - 2016)
 <br><br>
 
-## Projects
+## 📃 Projects
 
 **Development of a Recirculating Photocatalytic Reactor for Wastewater Remediation:** Final year honours project targeted at creating a more cost efficient and sustainable means for waste water treatment in rural areas. 
 
-## Interests
+## 🤔 Interests
   - Video Games & Game Development 
   - Mobile Technology 
   - Renewable/Sustainable Energy & Clean Technology
